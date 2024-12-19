@@ -16,7 +16,7 @@ Veri tabanına bağlanabilmek için :
 
 	1) Veri tabanınız içerisinde doctor adında bir tablo oluşturun. 
 		Tabloda(id: bigint, name: character varying, surname: character varying, proficiency: character varying) kolonları olmalıdır.
-        id kolonu PRİMARY KEY ve auto-increment olmalıdır.	
+        id kolonu PRİMARY KEY ve auto-increment olmalıdır. e	
 
 	2) Veri tabanınız içerisinde nurse adında bir tablo oluşturun. 
 		Tabloda(id: bigint, name: character varying, surname: character varying, proficiency: character varying) kolonları olmalıdır.
